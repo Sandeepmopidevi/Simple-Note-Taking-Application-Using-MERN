@@ -1,4 +1,4 @@
-# Note-Taking Application Using MERN Stack
+# Note Taking Application Using MERN Stack
 
 This project is a basic note-taking application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, read, update, and delete notes.
 
